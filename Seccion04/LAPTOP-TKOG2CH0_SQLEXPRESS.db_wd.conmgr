@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-TKOG2CH0_SQLEXPRESS.db_wd"
+  DTS:DTSID="{D7C3E0B1-1A55-4941-B65E-D22FCD5856DE}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-TKOG2CH0\SQLEXPRESS;Initial Catalog=db_wd;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Seccion04-{D7C3E0B1-1A55-4941-B65E-D22FCD5856DE}LAPTOP-TKOG2CH0\SQLEXPRESS.db_wd;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
